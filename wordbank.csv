@@ -1,0 +1,104 @@
+﻿The Word Bank,,
+============,,
+Word,Hint,Info
+---------------,,
+phishing,this term comes from scammers casting 'email' lures to 'fish',Don’t fall for suspicious emails or calls requesting personal details! They are phishing scams;; or fraudsters posing as legitamite services in order to obtain private information;; such as credit card passwords. 
+ransomware,malware used for cyber extortion (ransoms),Ransomware attacks lock (and usually encrypt) the victim's data from access until they pay a ransom. In case you encounter one in the future;; back up your files so you won't have to depend on ransoms to get them back.
+malware,malicious software,Installing an antivirus software can help protect you from malware. Even with one;; be cautious of suspicious files;; emails;; and websites;; as they may download malware without your knowledge.
+scareware,malware that tricks users into downloading software,Scareware often comes in the form of menacing pop-up ads. Don't download the software they're trying to offer; it's usually a scam. 
+adware,advertising supported software,Adware is malware that bombards the user with unwanted advertisements. It's often performed to generate advertising revenue; however;; it may also decrease computer performance from resource consumption.
+Trojan horse,malware disguised as legitimate software,The Trojan Horse malware gets its name from the Ancient Greek story where a deceptive gift of a Trojan Horse with hidden forces led to the fall of the city of Troy. 
+backdoor,a hidden entrance that bypasses normal security checks,Backdoors are often used to remotely access a system. 
+spyware,malware used for espionage,Spyware may come in the form of adware;; trojan horses;; browser cookies;; and system monitoring software. 
+virus,malware that changes other files/programs and self replicates,Viruses tend to modify and/or corrupt files on a system.
+worm,self replicating and self-spreading malware,Worms can self-replicate and spread on their own;; allowing for infections to quickly spread through a network.
+bot,an automated program,Bots are also known as zombies. They have been compromised by someone and remotely perform malicious tasks. 
+botnet,a network of bots,Botnets are often used to perform distributed denial of service attacks. 
+breach,illicit entry into a network/device,In 2013;; a breach on Yahoo! compromised the private data;; including passwords and security question answers;; of over a billion user accounts. 
+keylogger,a tracker that logs each key that a user enters,Keyloggers are legal programs. However;; they are often employed to steal confidential information that a user enters on their computer.
+antimalware,software that protects against and removes malware,Installing an antimalware software is recommended in order to protect your computer from a variety of common cyber threats.
+man in the middle,this attack may involve eavesdropping,A man-in-the-middle attack is an attack where an eavesdropper inserts him/herself between the communication of two parties;; possibly altering the messages sent and received;; for malicious purposes. 
+PUP,potentially unwanted program,Potentially unwanted programs are usually unwanted. They're labelled differently from malware for legal reasons as they dupe the user into permitting their installation (unlike malware) through fine print;; tricky wording;; etc.
+DoS,denial of service attack,Denial-of-Service attackers seek to disrupt website or machine services by flooding the server with requests to the point where the system crashes. 
+DDoS,distributed denial of service attack,A DDoS attack involves using a large number of machines;; often with hosts infected with malware;; to perform a DoS attack. It's harder to stop the attack as requests come from different sources. 
+cyberattack,an attack that targets computer networks and/or devices,Cyberattacks are costly. For example;; in the healthcare sector;; data breaches may cost an average of $429 per record.
+SQL injection,inserting malicious SQL code in a user input field,Without errortrapping;; the use of user inputs in SQL database statements can return unauthorized sensitive information from said database. 
+active defense,using offensive action to derail attacks,Active defence is offensive action used to derail ongoing attacks. It's used to not only slow down and limit an attacker's scope of damage;; but also to collect intelligence on his/her motives and strategies.
+cold boot attack,side-channel attack using a cold boot ,A cold boot attack performs a memory dump after cold-booting the machine; an analysis of the dumped data is then performed to find sensitive information.
+dictionary attack,using a list of possibilities to guess passwords,Avoid dictionary phrases in your passwords; this makes them more prone to cracking via dictionary attack.
+side channel attack,the exploitation of leaked information from a system,Side-channel attacks focus on exploiting available information as opposed to finding holes in an algorithm. Such information may include power consumption. 
+social engineering,manipulating someone to obtain confidential information,Social engineering uses manipulation against people;; rather than holes in a system. Don't fall for these scams!
+rootkit,malware that hides itself and its activity,Primary uses of rootkits are to hide information about itself;; its activity;; and perhaps activity of other malware.
+password cracking,obtaining a password through constant guessing,Protect your passwords from cracking! Choose strong passwords and add a lockout threshold (the account is locked out for a set duration of time after a series of failed attempts).
+cross site scripting,XSS,In cross-site scripting;; potentially malicious client-side scripts are injected into webpages for the use of other users.
+drive by download,an unauthorized download,Be careful of what gets downloaded! Drive-by downloads are malicious downloads that are unauthorized or performed by the user without the knowledge of the consequences.
+zero day exploit,exploiting a software vulnerability before it is fixed,Keep your software updated! When developers discover a vulnerability;; attackers may perform a zero-day exploit targeting the hole before it is patched. Even so;; users who have not applied the fix are vulnerable to the attack.
+DNS tunnelling,an attack that uses DNS as a backchannel,DNS tunnelling attacks a DNS server and uses it as a private communication channel and to store stolen data via queries and responses. 
+auditing,used for event tracking on a computer,Turning on auditing helps to detect security issues on the system
+password,secret expression,A strong password prevents other people/bots from guessing it and gaining access to your information! Use mixed-case letters;; symbols;; and numbers and avoid dictionary words. 
+administrator,an account with unrestricted access to the computer/domain,On Windows and other operating systems;; the built in administrator account cannot be locked out. Thus;; it is prone to brute-force attacks;; allowing for unauthorized access. To prevent this;; you can disable it.
+guest account,an account with limited privileges,On Windows and other operating systems;; the default Guest account does not require a password. Thus;; to prevent unauthorized access to your computer or network;; you can disable it. 
+user,someone who uses a computer or a service,You are a user.
+superuser,administrator;; admin;; and root,The superuser is the most privileged account on a system and has no restriction to the (system-wide) changes it can make. 
+sudo,Unix/Unix-like superuser,If the user is permitted to;; sudo allows a computer/network user to run commands and programs with the highest security privileges
+group,a _ of users,User groups are used to simplify system access control; users of a similar purpose would fall in the same group and thus could have similar permissions.
+digital signature,used for message authentication,Digital signatures help to ensure message integrity. Messages are signed with the sender's private key and authenticated with their public key.
+firewall,monitors network traffic,Firewalls block unauthorized connections to your computer based on security rules. Unless you know what you're doing;; it's highly recommended to have one enabled. 
+IP address,used to identify devices on a network,The role of the IP address can be summed up as: 'A name indicates what we seek. An address indicates where it is. A route indicates how to get there.' - J. Postel for DARPA;; 1981
+UDP,user datagram protocol,UDP is an Internet protocol (for sending packets over the Internet).
+TCP,transmission control protocol,TCP/IP is an Internet protocol (for sending packets over the Internet).
+operating system,Windows versions;; Linux flavours;; macOS,Some features of different operating systems include single- or multi-tasking (ability to run several tasks at once) and single- or multi-user (ability for multiple users to logon at once).
+update,a patch,Keep your programs and systems updated; patches fix vulnerabilites which attacks may try to take advantage of.
+scan,checks for vulnerabilities,Scans can help you detect malware;; corrupted files;; and more.
+disk encryption,data protection on a certain device,Disk encryption encrypts the entire disk drive to prevent access from unauthorized figures.
+sudo,Unix-like OS superuser program,sudo allows an authorized user to run commands under (usually) superuser privileges.
+secure shell,SSH,The Secure Shell network protocol enables secure communications and file transfers over insecure networks.
+port,_ no. 80 is most commonly assigned to HTTP,Ports are communication endpoints. 
+file share,offering access to digital resources,File sharing is the ability or process to share;; send;; or link files accross networks and systems.
+virtual private network,VPN,Virtual private networks are private networks from public Internet connections. They are often used for privacy as they mask your IP address.
+tracker,something that tracks you,Trackers are prevalent on the Internet today;; used to help customize your web experience;; to collect your data into a profile;; etc.
+cookie,a small packet of data sent by a website to your browser,Websites send cookies to a web browser to host data about a user's activity on a website;; these messages are then sent back to the website. Cookies are useful for storing user preferences as well as for tracking a user's web activity.
+script,a list of commands to be executed,Scripts are useful for automating mundane tasks. 
+fingerprinter,a type of tracker,Fingerprinters are used to identify users and their browsing activity.
+HTTPS,HyperText Transfer Protocol Secure,HTTPS is a extension of HTTP;; establishing a secure communication protocol using TLS (Transport Layer Security) or SSL (Secure Sockets Layer).
+Internet service provider,ISP,An Internet service provider is an organization that provides Internet services. They may be publicly;; privately;; commercially;; community;; nonprofit;; or government owned. 
+file integrity,document protection from unauthorized modifications,File integrity refers to whether a file has went through unauthorized changes. 
+encryption,encoding a message,Encryption protects data from unauthorized people.
+cipher,involved in the encrytion process,A cipher is an encryption/decryption algorithm.
+key,lock and _,A key is a value used in cryptography to determine the output of an encryption or decryption.
+symmetric key,a type of key,A symmetric key is a key used for both encryption and decryption.
+public key,a type of key,A public key is a key that may be made known. It's used in asymmetric cryptography.
+private key,a type of key,A private key is a confidential key used to  may be made known. It's used in asymmetric cryptography.
+public key encryption,used for message authentication,Public key encryption help to ensure message integrity. Messages are signed with the recipient's public key and decrypted with the matching private key.
+decryption,reverse of encryption,Decryption is the process of decoding ciphertext into plaintext.
+data scraping,parsing human-readable output,Data scraping is performed by a program. Variants include screen scraping;; web scraping;; and report mining.
+biometrics,human characteristics,Biometrics authentication can be used for identification.
+cryptojacking,illicit cryptomining,Cryptojacking is the act of illicitly mining cryptocurrency with another computer's CPU. 
+user profile,one's digital identity,A user profile hosts one's digital identity. Sometimes;; the user profile that a website creates may be distributed as data to other companies.
+world wide web,www,The World Wide Web is a portion of the Internet that hosts resources under uniform resource locator (URL) references. 
+cryptocurrency,Bitcoin,Cryptocurrencies are digital currencies encrypted by cryptography. 
+ciphertext,type of text,Ciphertext is encrypted information.
+hash,a number generated from a string,Hashes are used to ensure message integrity. For instance;; Alice may append to the end of her message its hash. Bob can calculate the hash of the message he receives and check if the two match.
+settings,a series of set preferences,The settings on a computer and software provide a lot of customization from security to sheer personalization.
+server,provides services for clients,A server is a program used for network resource management.
+plaintext,type of text,Plaintextis unencrypted information.
+database,MySQL;; MongoDB;; MariaDB,A database is a collection of data stored on a computer system.
+privilege escalation,exploitation to gain unauthorized access,Privilege escalation is the exploitation of a bug in order to gain elevated access to something that would otherwise be unauthorized.
+spoofing,illicit impersonation,Spoofing is very similar to phishing; however;; phishing results in information theft;; while spoofing may not.
+data tampering,illicit data modification,Data tampering is the unauthorized modification of data;; including edits and corruption.
+evil maid attack,an attack that uses a keylogger,The evil maid attack uses a keylogger;; unbeknownst to the user;; to gather passwords. Physical access to the device is required so as to install the keylogger and collect the data. 
+cryptography,code generation to secure information,Cryptography is the study and practice of secure communication measures. 
+two factor authentication,an additional layer of security,Two-factor authentication requires both a password and a physical device to authenticate a user.
+sandbox,separate testing environment,A sandbox is an isolated staging grounds. Code can be tested without fear of exposing vulnerabilities.
+password sniffer,listens to and retrieves passwords,Sniffers are intended to be used to restore passwords - but they can also be used for malicious activity. 
+internet,interconnected network,The Internet is a global network of networks;; including both private and public ones. It transports information and services of all sorts. 
+darknet,a part of the Internet that consists of hidden networks,Darknets must be accessed via anonymizing browsers. However;; as a result;; they are often used for illegal markets ('darknet markets');; espionage;; cyber warfare;; and communication.
+dark web,the world wide web of darknets,The anonymity of the dark web users allows for both legal and illegal services - including darknet markets (e.g. drug and fraud businesses) - to flourish. 
+deep web,web search engines can't reach here,The deep web is not the same as the dark web - while;; for instance;; the deep web contains private records and data;; the dark web is widely seen as a hub for illegal activity. 
+domain name,a part of a website URL,A domain name points to an IP address; examples include google.ca and duckduckgo.com.
+onion routing,anonymous communication over a network,Onion routing anonymously transmits packets over a network through a series of encryption and decryption processes among routers in a path.
+rainbow table,precomputed tables of hash to plaintext values,Rainbow tables are used to crack passwords by matching the encryption's hash value. 
+network packet,formatted unit of data,Packet switched networks transport network packets;; each carrying a certain number of bytes.
+DNS,domain name system,The DNS is a decentralized naming system; it hosts a reference of domain names to IP addresses. 
+localhost,this computer,localhost is the hostname used to access the host computer's network services. 
+checksum,helps to ensure file integrity,Checksums are the hash values generated from a file or similar block of data. Downloaded a file from online? If the provider specified a checksum for it;; you can compare it with your download's checksum;; and if they match;; then rest assured that the files are identical. 
